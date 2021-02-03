@@ -6,7 +6,7 @@ Peer-graded Assignment: Getting and Cleaning Data Course Project
 - tidydata.txt - file containing the tidy data after processing - output from run_analysis.R
 - CodeBook.md - Contains a code book that describes the variables, the data, and transformations performed
 
-## The Project
+## Project Description
 
 The purpose of this project is to demonstrate the collection and cleaning of a data set. The goal is to prepare tidy data that can be used for later analysis.  
 
