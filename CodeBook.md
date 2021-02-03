@@ -22,16 +22,16 @@ The script "run_analysis.R" performs the following to get and clean the date con
 - Creates a tidy dataset that consists of the average (mean) value of each variable for each activity and each subject
 - The end result is stored in the file tidydata.txt
 
-### Subjects range in number from 1 - 30
+### Subjects in the tinydataset range in number from 1 - 30
 
-### Activity types in activitylabels used as descriptive activity names
+### Activity types in activitylabels are used as descriptive activity names in the tinydataset
 
-1 WALKING  
-2 WALKING_UPSTAIRS  
-3 WALKING_DOWNSTAIRS  
-4 SITTING  
-5 STANDING  
-6 LAYING  
+1. WALKING  
+2. WALKING_UPSTAIRS  
+3. WALKING_DOWNSTAIRS  
+4. SITTING  
+5. STANDING  
+6. LAYING  
 
 ### Mean and standard deviation measurements in the tidydataset
 
